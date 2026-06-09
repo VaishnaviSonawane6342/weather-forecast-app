@@ -48,7 +48,9 @@ function changeBackground(weather) {    //change background based on weather con
 
         case "clouds":
             body.style.background =
+
                 "linear-gradient(135deg, #757f9a 0%, #d7dde8 100%)";
+
             break;
 
         case "rain":
