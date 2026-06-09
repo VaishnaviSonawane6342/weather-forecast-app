@@ -28,7 +28,7 @@ This application allows users to search for any city and get real-time weather i
 
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/07e398ee-0f89-484d-a516-577323310023" />
 🔗 Live Demo
-https://github.com/VaishnaviSonawane6342/weather-forecast-app/tree/mai
+https://vaishnavisonawane6342.github.io/weather-forecast-app/
 
 What I Learned
 .API Integration
